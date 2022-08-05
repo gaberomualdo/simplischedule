@@ -40,8 +40,8 @@ export default function Features() {
           Features
         </p>
         <p className="mt-3 mb-10 text-lg text-gray-500 text-center px-3">
-          A couple useful pieces of functionality that make Simplisafe a great
-          tool for you.
+          A couple useful pieces of functionality that make Simplischedule a
+          great tool for you.
         </p>
         <div className="border-gray-200 border-t md:border-none grid grid-cols-1 gap-x-4 md:gap-y-4 sm:grid-cols-2 lg:gap-x-6 lg:gap-y-6">
           {features.map((feature) => (
